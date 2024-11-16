@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541836126729",
+    "project_id": "yogawans-auth-app",
+    "storage_bucket": "yogawans-auth-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541836126729:android:dacd315287564fe670a6d8",
+        "android_client_info": {
+          "package_name": "com.yogaones.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVy-25yPZibUcw0kvmHchf8wtehS3eCyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
